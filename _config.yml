@@ -1,0 +1,28 @@
+name: hbdirect
+favicon: null
+layout_spectrum: 0.36088712024502456
+typography_spectrum: 0.7180121492128819
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.15701118600554764
+  lightness: 0.018815764226019382
+  saturation: 0.8335920919198543
+  rhythmicContrast: 0.15230506588704884
+purpose: []
